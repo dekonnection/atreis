@@ -12,6 +12,10 @@ keyboard to take when on the go.
 
 And because we can.
 
+## Why the name ?
+
+Because it looks a lot like the [Atreus](https://github.com/technomancy/atreus) keyboard, but with the Iris layout.
+
 ## How do I build one ?
 
 Unfortunately, I'm not planning on designing a PCB for it, so you're on your own
