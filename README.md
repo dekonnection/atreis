@@ -12,7 +12,7 @@ keyboard to take when on the go.
 
 And because we can.
 
-## Why the name ?
+## Why this name ?
 
 Because it looks a lot like the [Atreus](https://github.com/technomancy/atreus) keyboard, but with the Iris layout.
 
