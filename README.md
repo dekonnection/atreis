@@ -7,6 +7,8 @@ Unsplitting the Iris keyboard.
 Based on [Keebio's Iris keyboard design files](https://github.com/keebio/iris-case),
 modified to achieve the same layout in a single-piece form-factor.
 
+For more pictures, [the full album is on imgur](https://imgur.com/a/LmST29r).
+
 ## Why ?
 
 Because the Iris is perfect, but a splitted keyboard is not the most convenient
