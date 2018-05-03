@@ -2,6 +2,8 @@
 
 Unsplitting the Iris keyboard.
 
+![A picture of the Atreis](pictures/GPI0El4.jpg?raw=true "The Atreis keyboard")
+
 Based on [Keebio's Iris keyboard design files](https://github.com/keebio/iris-case),
 modified to achieve the same layout in a single-piece form-factor.
 
