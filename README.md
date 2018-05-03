@@ -23,4 +23,6 @@ to laser-cut the plates and hand-wire it.
 
 # Firmware
 
-I will add support for this keyboard to [QMK](https://github.com/qmk/qmk_firmware).
+This keyboard runs under the wonderful [QMK](https://github.com/qmk/qmk_firmware) firmware, my current (preliminary and pretty basic, but functional) code is here : https://github.com/dekonnection/qmk_firmware/tree/master/keyboards/atreis
+
+I will eventually do a merge request in upstream QMK.
