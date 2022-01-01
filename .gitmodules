@@ -1,0 +1,6 @@
+[submodule "kbd"]
+	path = pcb/kbd
+	url = https://github.com/climent/kbd.git
+[submodule "pcb/Keebio-Parts.pretty"]
+	path = pcb/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "atreis")(type "KiCad")(uri "${KIPRJMOD}/atreis.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+)
