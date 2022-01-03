@@ -22,8 +22,9 @@ Because it looks a lot like the [Atreus](https://github.com/technomancy/atreus) 
 
 ## How do I build one ?
 
-Unfortunately, I'm not planning on designing a PCB for it, so you're on your own
-to laser-cut the plates and hand-wire it.
+Two solutions:
+- like I did when I started the project, laser-cut the plates and hand-wire it.
+- use the PCB and case files available in this repository, wonderfully created by https://github.com/climent
 
 # Firmware
 
